@@ -1,0 +1,62 @@
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.staticwebassets.runtime.json
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.exe
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.deps.json
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.runtimeconfig.json
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.dll
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.pdb
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.AssemblyInfo.cs
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.RazorAssemblyInfo.cache
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.RazorAssemblyInfo.cs
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets\msbuild.MyFirstWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MyFirstWebApp.props
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstWebApp.props
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyFirstWebApp.props
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\scopedcss\bundle\MyFirstWebApp.styles.css
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MyFirstWebApp.bundle.scp.css
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.dll
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\refint\MyFirstWebApp.dll
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.pdb
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.genruntimeconfig.cache
+C:\Users\EDUARDO\source\repos\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\ref\MyFirstWebApp.dll
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\appsettings.json
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.staticwebassets.runtime.json
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.exe
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.deps.json
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.runtimeconfig.json
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.dll
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\bin\Debug\net6.0\MyFirstWebApp.pdb
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.csproj.AssemblyReference.cache
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.AssemblyInfoInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.AssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.csproj.CoreCompileInputs.cache
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.RazorAssemblyInfo.cache
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.RazorAssemblyInfo.cs
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets\msbuild.MyFirstWebApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets\msbuild.build.MyFirstWebApp.props
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MyFirstWebApp.props
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MyFirstWebApp.props
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\scopedcss\bundle\MyFirstWebApp.styles.css
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\scopedcss\projectbundle\MyFirstWebApp.bundle.scp.css
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.dll
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\refint\MyFirstWebApp.dll
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.pdb
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\MyFirstWebApp.genruntimeconfig.cache
+C:\Users\EDUARDO\Documents\C# Programming\MyFirstWebApp\MyFirstWebApp\obj\Debug\net6.0\ref\MyFirstWebApp.dll
