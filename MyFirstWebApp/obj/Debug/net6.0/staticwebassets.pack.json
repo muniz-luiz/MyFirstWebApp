@@ -13,6 +13,18 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\EDUARDO\\Documents\\C# Programming\\MyFirstWebApp\\MyFirstWebApp\\wwwroot\\images\\hamburguer1.jpg",
+      "PackagePath": "staticwebassets\\images\\hamburguer1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EDUARDO\\Documents\\C# Programming\\MyFirstWebApp\\MyFirstWebApp\\wwwroot\\images\\hamburguer2.jpg",
+      "PackagePath": "staticwebassets\\images\\hamburguer2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\EDUARDO\\Documents\\C# Programming\\MyFirstWebApp\\MyFirstWebApp\\wwwroot\\images\\hamburguer3.jpg",
+      "PackagePath": "staticwebassets\\images\\hamburguer3.jpg"
+    },
+    {
       "Id": "C:\\Users\\EDUARDO\\Documents\\C# Programming\\MyFirstWebApp\\MyFirstWebApp\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
